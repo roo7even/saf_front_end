@@ -1,0 +1,85 @@
+*,
+*:before,
+*:after {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	padding: 30px 20px;
+	font-family: arial;
+}
+h1 {
+	text-align: left;
+}
+h2,
+h3 {
+	margin-top: 30px;
+}
+.inpt {
+	padding: 5px 10px;
+	display: block;
+	font-size: 18px;
+}
+#app {
+	/* overflow-x: scroll; */
+	width: max-content;
+}
+.table .small-text {
+	display: block;
+}
+.table-header {
+	font-weight: bold;
+}
+.table-header,
+.sensor-list {
+	list-style: none;
+	padding: 0;
+}
+.table-header,
+.sensor-list li {
+	display: flex;
+}
+.table-header li,
+.sensor-list li > div {
+	border: 1px solid black;
+	padding: 10px;
+	width: 250px;
+}
+.table-header li {
+	cursor: pointer;
+}
+.metrics-filter {
+	margin-top: 10px;
+	list-style: none;
+}
+.metrics-filter li {
+	display: inline-block;
+	text-decoration: line-through;
+	cursor: pointer;
+	color: gray;
+	background-color: white;
+	padding: 10px;
+}
+.metrics-filter li + li {
+	margin-top: 5px;
+}
+.metrics-filter li.active {
+	text-decoration: none;
+	color: black;
+}
+.table {
+	margin-top: 30px;
+}
+.small-text {
+	font-size: 11px;
+	font-style: italic;
+}
+.filter {
+	background-color: rgba(0, 0, 0, 0.1);
+	padding: 10px;
+	max-width: 900px;
+}

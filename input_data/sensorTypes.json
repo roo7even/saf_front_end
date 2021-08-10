@@ -1,0 +1,77 @@
+{
+   "1":{
+      "8":{
+         "name":"T/RH Sensor"
+      },
+      "9":{
+         "name":"T/RH Sensor IP68"
+      },
+      "10":{
+         "name":"T/RH Sensor for greenhouse"
+      },
+      "11":{
+         "name":"T/RH Test Sensor"
+      }
+   },
+   "2":{
+      "1":{
+         "name":"PT100 Sensor/EXT Sensor"
+      },
+      "2":{
+         "name":"PT100 TX"
+      },
+      "3":{
+         "name":"PT1000 TX"
+      },
+      "8":{
+         "name":"T Sensor"
+      },
+      "9":{
+         "name":"T Compact"
+      }
+   },
+   "3":{
+      "8":{
+         "name":"CO2 Sensor"
+      },
+      "9":{
+         "name":"CO2 Sensor w manual calibration"
+      }
+   },
+   "4":{
+      "1":{
+         "name":"Aranet4"
+      }
+   },
+   "5":{
+      "1":{
+         "name":"Voltage Sensor"
+      },
+      "2":{
+         "name":"4-20mA Wireless Interface"
+      },
+      "3":{
+         "name":"50/100 KG Weight Sensor"
+      },
+      "4":{
+         "name":"Contact on/off Sensor"
+      },
+      "5":{
+         "name":"Lux meter"
+      },
+      "8":{
+         "name":"Distance Sensor"
+      }
+   },
+   "6":{
+      "1":{
+         "name":"Aranet soil VWC, EC, T Sensor"
+      },
+      "2":{
+         "name":"PAR Sensor A"
+      },
+      "3":{
+         "name":"PAR Sensor"
+      }
+   }
+}
