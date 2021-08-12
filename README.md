@@ -1,6 +1,15 @@
-# saf_front_end
-## Noformēt mērījumu datus web lapā tabulas veidā
+# SAFTehnika front-end task
+A webpage containing sensor measurement data
+## Build/Run 
+Clone project to any server that can serve HTML/CSS/js files.
 
-Pull project to webserver of your choice. Done.
+Note: Can't run directly from desktop in the browser due to CORS issues in modern browsers
 
-Note: Can't run directly from desktop in browser due to CORS. Reading local files ( data files in this case ) is disallowed by modern browsers
+## View
+On a successful run you should see
+![screenshot](http://prntscr.com/1nelsus)
+
+## Options
+- Search/Filter by sensor or sensor type name
+- Hide metric columns 
+- Sort by any column ( click on column header/name)
