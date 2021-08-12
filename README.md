@@ -11,5 +11,5 @@ On a successful run you should see
 
 ## Options
 - Search/Filter by sensor or sensor type name
-- Hide metric columns 
+- Hide/Unhide metric columns 
 - Sort by any column ( click on column header/name)
