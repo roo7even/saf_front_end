@@ -6,8 +6,7 @@ Clone project to any server that can serve HTML/CSS/js files.
 Note: Can't run directly from desktop in the browser due to CORS issues in modern browsers
 
 ## View
-On a successful run you should see
-![screenshot](http://prntscr.com/1nelsus)
+On a successful run you should see (https://prnt.sc/1nelsus)
 
 ## Options
 - Search/Filter by sensor or sensor type name
